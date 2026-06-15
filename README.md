@@ -69,27 +69,43 @@ class HackerProfile:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-| # | 🎖️ Certification | 🏛️ Issuer | 📅 Status |
+| # | 🎖️ Certification / Achievement | 🏛️ Issuer / Type | 📅 Status |
 |---|------------------|-----------|-----------|
 | 01 | 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy | ✅ Completed |
-| 02 | 🔒 **Pre-Security Path** | TryHackMe | ✅ Completed |
-| 03 | 🏅 **Tech Jam Achievement** | Tech Jam | ✅ Earned |
-| 04 | 🔐 **Secure Dev Lab** | Secure Dev Lab | ✅ Completed |
-| 05 | 📄 **Muhammad Usman — Professional Certificate** | Institution | ✅ Verified |
+| 02 | 🌐 **Networking Basics** | Cisco Networking Academy | ✅ Completed |
+| 03 | 🔒 **Pre-Security Path** | TryHackMe | ✅ Completed |
+| 04 | 💻 **CodeRed Dark Web** | CodeRed | ✅ Completed |
+| 05 | 🏴‍☠️ **Hack4Bug CTF Player Badge** | Hack4Bug | ✅ Earned |
+| 06 | 🏅 **Tech Jam Achievement** | Tech Jam | ✅ Earned |
+| 07 | 🔐 **Secure Dev Lab** | Secure Dev Lab | ✅ Completed |
+| 08 | 🛡️ **Secure Dev** | Secure Dev | ✅ Completed |
+| 09 | 💼 **Internship Completion** | Internship | ✅ Completed |
+| 10 | 🐱 **Meoww Team** | Meoww Team | ✅ Verified |
+| 11 | 🧠 **Quiz Achievement** | Quiz | ✅ Earned |
+| 12 | 📄 **Muhammad Usman — Certificates** | Various | ✅ Verified |
 
 <details>
 <summary>📁 <strong>Click to view raw certificate files</strong></summary>
 
 ```
 Certificates/
-├── Introduction_to_Cybersecurity_certificate_...pdf   [Cisco NetAcad]
-├── pre security.pdf                                   [TryHackMe]
+├── CodeRed-darkweb.png                                [CodeRed]
+├── Hack4Bug - CTF Player Badge-1.pdf                  [Hack4Bug]
+├── Introduction_to_Cybersecurity_certificate...pdf    [Cisco NetAcad]
+├── Meoww_Team.pdf                                     [Meoww Team]
+├── Muhammad Usman 2-1.pdf                             [Achievement]
+├── Muhammad Usman.pdf                                 [Professional]
+├── Muhammad_Usman_CV.pdf                              [Curriculum Vitae]
+├── Networking_Basics.pdf                              [Networking]
+├── Screenshot From 2026-02-27 01-01-10.png            [Misc]
 ├── Secure_Dev_Lab.png                                 [Secure Dev Lab]
 ├── Tech_Jam.png                                       [Tech Jam]
-├── Muhammad Usman.pdf                                 [Professional]
-├── Muhammad Usman 2-1.pdf                             [Achievement]
+├── _usman khan__Certificate.pdf                       [Certificate]
+├── internship.jpeg                                    [Internship]
 ├── muhammad usman 2.pdf                               [Achievement]
-└── Muhammad_Usman_CV.pdf                              [Curriculum Vitae]
+├── pre security.pdf                                   [TryHackMe]
+├── quiz.png                                           [Quiz]
+└── secure-dev.pdf                                     [Secure Dev]
 ```
 
 </details>
@@ -156,14 +172,23 @@ Burp Suite              ██████░░░░  60%
 ### 🏆 Tech Jam Participant
 > Competed in a technology showcase event, demonstrating hands-on technical skills and innovation.
 
-### 🔐 Secure Development Lab
-> Completed a secure coding and development lab, applying security best practices in software development workflows.
+### 🔐 Secure Development Lab & Secure Dev
+> Completed secure coding and development labs, applying security best practices in software development workflows.
 
-### 🌐 Cisco — Introduction to Cybersecurity
-> Gained foundational knowledge in network security, threat detection, and cybersecurity principles through Cisco's official curriculum.
+### 🌐 Cisco — Intro to Cybersecurity & Networking Basics
+> Gained foundational knowledge in networking, network security, threat detection, and cybersecurity principles through Cisco's official curriculum.
 
 ### 🛡️ TryHackMe — Pre-Security Path
 > Completed the Pre-Security learning path on TryHackMe, building core knowledge in networking, the web, and Linux fundamentals needed for ethical hacking.
+
+### 🏴‍☠️ Hack4Bug CTF & Meoww Team
+> Participated in CTF competitions and teamwork challenges, demonstrating practical ethical hacking and problem-solving skills.
+
+### 💻 CodeRed Dark Web
+> Explored and understood the concepts, risks, and security measures associated with the Dark Web.
+
+### 💼 Internship Completion
+> Successfully completed a professional internship, gaining real-world experience and applying technical skills in a practical environment.
 
 ---
 
